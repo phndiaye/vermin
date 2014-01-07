@@ -1,2 +1,4 @@
-Vermin: Another WSGI toolbox
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Vermin
+~~~~~~
+
+Basic WSGI wrappers built when learning about the PEP 333
